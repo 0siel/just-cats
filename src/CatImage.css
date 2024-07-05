@@ -1,0 +1,18 @@
+.cat-image-container {
+  text-align: center;
+  margin: 20px;
+}
+
+.cat-image-container img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.cat-image-container button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
